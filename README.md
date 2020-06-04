@@ -90,8 +90,8 @@ Collecting ECG Signal (Arduino):
 - For GUI identification application, change and check the port of Arduino UNO everytime.
 
 # Contact
-Steven, WONG MENG HENG(ws28451912@gmail.com)
-Yumi, SIN IAO MEI(yumi-o3o@hotmail.com)
+- Steven, WONG MENG HENG(ws28451912@gmail.com)
+- Yumi, SIN IAO MEI(yumi-o3o@hotmail.com)
 
 
 
